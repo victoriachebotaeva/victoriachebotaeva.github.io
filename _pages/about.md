@@ -11,7 +11,7 @@ I am a [Teaching Fellow](https://dornsife.usc.edu/profile/victoria-chebotaeva/) 
 
 I am deeply committed to inclusive and student-centered teaching. During my time at South Carolina, I served as an [Instructional Peer Mentor](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/beyond_classroom/pmp/past-mentors.php) for first-year Ph.D. students beginning their teaching journeys. I also worked with the [TRIO program](https://communities.usc.edu/educational-partnerships/trio-programs/), supporting first-generation college students through academic coaching and mathematics instruction.  
 
-My current interests include alternative assessment methods, active learning, and building equitable learning environments in undergraduate mathematics classrooms.
+My current interests include alternative assessment methods, active learning, and building equitable learning environments in undergraduate mathematics classrooms. la
 
 [View Full CV (PDF)](https://victoriachebotaeva.github.io/CV_Chebotaeva_Victoria.pdf){: .btn .btn--primary }
 
