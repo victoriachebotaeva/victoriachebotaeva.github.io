@@ -13,6 +13,9 @@ I am deeply committed to inclusive and student-centered teaching. During my time
 
 My current interests include alternative assessment methods, active learning, and building equitable learning environments in undergraduate mathematics classrooms.
 
+[View Full CV (PDF)](https://victoriachebotaeva.github.io/CV_Chebotaeva_Victoria.pdf){: .btn .btn--primary }
+
+
 **Markdown generator**
 
 The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
