@@ -10,7 +10,7 @@
 main:
 
   - title: "About"
-    url: /about/
+    url: /vc/
   
   - title: "Teaching"
     url: /teaching/
