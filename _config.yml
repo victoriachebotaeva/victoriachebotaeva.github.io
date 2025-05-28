@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/Victoria_square.png"
+  avatar           : "/bio-photo.jpg"
   name             : "Teaching Fellow in Mathematics"
   pronouns         : # example: "she/her"  
   bio              : "Mathematical modeling, inclusive pedagogy, and student-centered learning."
